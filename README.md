@@ -16,7 +16,7 @@ messengerjs-rails is a Rails (3.1 and above) wrapper for [Messenger](http://gith
 
 [Demo and Usage](http://hubspot.github.com/messenger)
 
-## Requirements
+## Requirement/Dependency:
 
 1. jQuery
 
@@ -51,6 +51,6 @@ Feel free to open an issue ticket if you find something that could be improved.
 
 ## Acknowledgements
 
-Special thanks to [HubSpot](http://dev.hubspot.com/) and all Messenger contributor.
+Special thanks to [HubSpot](http://dev.hubspot.com/) and all Messenger contributors.
 
-Copyright [Ben Song](zbin.song@gmail.com), released under the MIT License.
+Copyright Ben Song(zbin.song@gmail.com), released under the MIT License.
