@@ -26,18 +26,21 @@ messengerjs-rails is a Rails (3.1 and above) wrapper for [Messenger](http://gith
 
 Add the following to your gemfile:
 
-    gem 'messengerjs-rails'
+    gem "messengerjs-rails", "~> 1.3.0"
 
-Add the following directive to your application.coffee / application.js:
+Add the following directive to your application.coffee / application.js:   
 
+    //= require jquery-rails
+    *
+    *
     //= require messenger
     //= require messenger-theme-future
 
-Add the following directive to your application.scss / application.css. There are four themes provided (future, air, block and ice), change the required stylesheet as needed.
+Add the following directive to your application.scss / application.css. There are four themes/styles provided (future, air, block and ice), change required stylesheet as needed.
 
     *= require messenger
- 	*= require messenger-spinner
- 	*= require messenger-theme-future
+ 	  *= require messenger-spinner
+ 	  *= require messenger-theme-future
 
 
 ## Versioning
