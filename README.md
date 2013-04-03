@@ -42,6 +42,9 @@ Add the following directive to your application.scss / application.css. There ar
  	  *= require messenger-spinner
  	  *= require messenger-theme-future
 
+## Todos
+
+1. Provide a Rails Middleware for replacing conventional flash messages.  
 
 ## Versioning
 
