@@ -4,7 +4,7 @@ require File.expand_path('../lib/messengerjs-rails/version', __FILE__)
 Gem::Specification.new do |s|
 	s.name			= 'messengerjs-rails'
 	s.version		= MessengerJS::Rails::VERSION
-	s.date			= '2013-03-26'
+	s.date			= '2013-07-04'
 	s.summary		= 'Messenger js on Rails'
 	s.description	= 'Injects Messenger javascript and stylesheets into your asset pipeline.'
 	s.authors		= ["Ben Song"]
