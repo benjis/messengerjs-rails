@@ -1,5 +1,5 @@
 module MessengerJS
   module Rails
-    VERSION = "1.3.3"
+    VERSION = "1.3.5"
   end
 end
