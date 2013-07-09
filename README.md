@@ -26,7 +26,7 @@ messengerjs-rails is a Rails (3.1 and above) wrapper for [Messenger](http://gith
 
 Add the following to your gemfile:
 
-    gem "messengerjs-rails", "~> 1.3.5"
+    gem "messengerjs-rails", "~> 1.3.6"
 
 Add the following directive to your application.coffee / application.js:   
 
