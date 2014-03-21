@@ -26,7 +26,7 @@ messengerjs-rails is a Rails (3.1 and above) wrapper for [Messenger](http://gith
 
 Add the following to your gemfile:
 
-    gem "messengerjs-rails", "~> 1.3.6.2"
+    gem "messengerjs-rails", "~> 1.4.1"
 
 Add the following directive to your application.coffee / application.js:   
 
@@ -42,10 +42,6 @@ Add the following directive to your application.scss / application.css. There ar
  	  *= require messenger-spinner
  	  *= require messenger-theme-future
 
-## Todos
-
-1. Provide a Rails Middleware for replacing conventional flash messages.  
-
 ## Versioning
 
 Every attempt is made to mirror the currently shipping Messenger version number wherever possible.
@@ -56,7 +52,5 @@ The major, minor, and patch version numbers will always represent the Messenger 
 Feel free to open an issue ticket if you find something that could be improved.
 
 ## Acknowledgements
-
-Special thanks to [HubSpot](http://dev.hubspot.com/) and all Messenger contributors.
 
 Copyright Ben Song(zbin.song@gmail.com), released under the MIT License.
