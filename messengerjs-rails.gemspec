@@ -10,6 +10,6 @@ Gem::Specification.new do |s|
 	s.authors		= ["Ben Song"]
 	s.email			= 'zbin.song@gmail.com'
 	s.files			= Dir["{lib,vendor}/**/*"] + ["MIT-LICENSE", "README.md"]
-	s.homepage  = 'https://github.com/benjis/messengerjs-rails/'
-  s.license   = 'MIT'
+	s.homepage      = 'https://github.com/benjis/messengerjs-rails/'
+  	s.license       = 'MIT'
 end
